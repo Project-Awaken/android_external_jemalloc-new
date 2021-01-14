@@ -21,6 +21,16 @@
 /include/jemalloc/internal/private_symbols.awk
 /include/jemalloc/internal/private_symbols_jet.awk
 /include/jemalloc/internal/public_symbols.txt
+/include/jemalloc/internal/public_unnamespace.h
+/include/jemalloc/jemalloc.h
+/include/jemalloc/jemalloc_defs.h
+/include/jemalloc/jemalloc_macros.h
+/include/jemalloc/jemalloc_mangle.h
+/include/jemalloc/jemalloc_mangle_jet.h
+/include/jemalloc/jemalloc_protos.h
+/include/jemalloc/jemalloc_protos_jet.h
+/include/jemalloc/jemalloc_rename.h
+/include/jemalloc/jemalloc_typedefs.h
 
 /src/*.[od]
 /src/*.sym
